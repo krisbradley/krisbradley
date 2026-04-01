@@ -27,14 +27,6 @@
   <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white"/>
 </p>
 
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krisbradley&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&rank_icon=github" height="130"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisbradley&layout=compact&theme=tokyonight&hide_border=true" height="130"/>
-</p>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=80&section=footer" width="100%"/>
 </div>
